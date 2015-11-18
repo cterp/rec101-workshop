@@ -5,7 +5,7 @@ Instructor: Caroline Harbitz (charbitz5@gmail.com)
 ### Software requirement
 This workshop requires the following software:
 
-+ Neo4j Community edition version 2.3.0 or 2.3.1
++ Neo4j Community edition version 2.3.1
 
 Head to Neo4j's website to download the latest version: http://neo4j.com/download/
 
