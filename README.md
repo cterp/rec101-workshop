@@ -1,6 +1,6 @@
 # Graph-based Recommenders 101
 
-Instructor: Caroline Harbitz (charbitz5@gmail.com)
+Instructor: Caroline Harbitz
 
 ### Software requirement
 This workshop requires the following software:
